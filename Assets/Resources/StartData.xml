@@ -1,0 +1,4 @@
+﻿<root>
+  <Boy PlayerName="夜羽" career="剑星" lv="0" atk="350" def="450" maxHP="5000" maxMP="800" money="10000" crit="20" modelType="0" />
+   <Girl PlayerName="夜雨" career="魔道星" lv="0" atk="400" def="430" maxHP="4500" maxMP="1000" money="10000" crit="20" modelType="1" />
+</root>

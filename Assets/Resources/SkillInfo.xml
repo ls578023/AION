@@ -1,0 +1,15 @@
+<root>
+	<Skill id="1" name="极地冰域" skillType="0" releaseType="1" role="0" cd="5" mp="30" lv="1" 
+	info="对横向区域范围攻击,共造成攻击*3伤害,蓝耗30,冷却时间5秒" path="Icon/skill1"/>
+	<Skill id="2" name="血魔之刃" skillType="0" releaseType="1" role="0" cd="6" mp="50" lv="3" 
+	info="血魔刀光攻击前方敌人,共造成攻击*4伤害,蓝耗50,冷却时间6秒" path="Icon/skill2"/>
+	<Skill id="3" name="地裂天崩" skillType="0" releaseType="2" role="0" cd="8" mp="80" lv="6" 
+	info="对周围区域范围攻击,共造成攻击*6伤害,蓝耗80,冷却时间8秒" path="Icon/skill3"/>
+	<Skill id="4" name="急速星辰" skillType="0" releaseType="1" role="1" cd="5" mp="50" lv="1" info="召唤无数星辰砸向地面,共造成攻击*4伤害,蓝耗50,冷却时间5秒" path="Icon/skill4"/>
+	<Skill id="5" name="冰雪风暴" skillType="0" releaseType="1" role="1" cd="6" mp="60" lv="3" 
+	info="召唤暴风雪攻击敌人,共造成攻击*6伤害,蓝耗60,冷却时间6秒" path="Icon/skill5"/>
+	<Skill id="6" name="灵光暴闪" skillType="0" releaseType="2" role="1" cd="7" mp="80" lv="6"
+	info="自身为中心制造暴闪,共造成攻击*7.2伤害,蓝耗80,冷却时间7秒"	path="Icon/skill6"/>
+	<Skill id="7" name="精灵召唤" skillType="0" releaseType="2" role="2" cd="20" mp="0" lv="1" 
+	info="召唤冰之精灵协助战斗"	 path="Icon/skill7"/>
+</root>

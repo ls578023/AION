@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<game>
+	<item ID="1" Type="1" name="生命药剂" info="出售价格：50" lvInfo="不限等级" attr="生命值 +3000" buyPrice="200" sellPrice="50" hp="3000" path="Icon/hp"/>
+	
+	<item ID="2" Type="2" name="魔法药剂" info="出售价格：50" lvInfo="不限等级" attr="魔法值 +500" buyPrice="200" sellPrice="50" mp="500" path="Icon/mp"/>
+	
+	<item ID="90" Type="9" name="精灵召唤" info="出售价格：1000" lvInfo="不限等级" attr="学习精灵召唤技能" 
+	buyPrice="1000" sellPrice="200"  path="Icon/book"/>
+	
+	<item ID="91" Type="9" name="升级书" info="出售价格：1000" lvInfo="不限等级" attr="直接提升等级1级" 
+	buyPrice="1000" sellPrice="200"  path="Icon/book_lv"/>
+	
+	<item ID="10" Type="3" name="辉耀圣剑" info="出售价格：100" star="1" lvInfo="★" attr="攻击力 +100n暴击率 +20%"  
+	buyPrice="500" sellPrice="100" atk="100" crit="20" path="Icon/weapon1" modelType="0"/>
+	
+	<item ID="20" Type="4" name="辉耀头盔" info="出售价格：100" star="1" lvInfo="★" attr="防御 +50n最大生命值 +200" 
+	buyPrice="500" sellPrice="100" def="50" maxHP="200" path="Icon/helmet1" modelType="0"/>
+	
+	<item ID="30" Type="5" name="辉耀手套" info="出售价格：100" star="1" lvInfo="★" attr="攻击力 +10n防御 +40" 
+	buyPrice="500" sellPrice="100" def="40" atk="10" path="Icon/glove1" modelType="0"/>
+	
+	<item ID="40" Type="6" name="辉耀胸甲" info="出售价格：100" star="1" lvInfo="★" attr="防御 +50n最大生命值 +300" 
+	buyPrice="500" sellPrice="100" def="50" maxHP="300" path="Icon/armor1" modelType="0"/>
+	
+	<item ID="50" Type="7" name="辉耀之靴" info="出售价格：100" star="1" lvInfo="★" attr="防御 +40" 
+	buyPrice="500" sellPrice="100" def="40" path="Icon/shoes1" modelType="0"/>
+	
+	<item ID="60" Type="8" name="辉耀护腿" info="出售价格：100" star="1" lvInfo="★" attr="防御 +50n最大生命值 +200" 
+	buyPrice="500" sellPrice="100" def="50" maxHP="200" path="Icon/pant1" modelType="0"/>
+	
+	<item ID="15" Type="3" name="巫术法杖" info="出售价格：100" star="1" lvInfo="★" attr="攻击力 +100n暴击率 +20%"  
+	buyPrice="500" sellPrice="100" atk="100" crit="20" path="Icon/weapon2" modelType="1"/>
+	
+	<item ID="25" Type="4" name="巫术护额" info="出售价格：100" star="1" lvInfo="★" attr="防御 +50n最大生命值 +200" 
+	buyPrice="500" sellPrice="100" def="50" maxHP="200" path="Icon/helmet2" modelType="1"/>
+	
+	<item ID="35" Type="5" name="巫术护手" info="出售价格：100" star="1" lvInfo="★" attr="攻击力 +10n防御 +40" 
+	buyPrice="500" sellPrice="100" def="40" atk="10" path="Icon/glove2" modelType="1"/>
+	
+	<item ID="45" Type="6" name="巫术长袍" info="出售价格：100" star="1" lvInfo="★" attr="防御 +50n最大生命值 +300" 
+	buyPrice="500" sellPrice="100" def="50" maxHP="300" path="Icon/armor2" modelType="1"/>
+	
+	<item ID="55" Type="7" name="巫术之靴" info="出售价格：100" star="1" lvInfo="★" attr="防御 +40" 
+	buyPrice="500" sellPrice="100" def="40" path="Icon/shoes2" modelType="1"/>
+	
+	<item ID="65" Type="8" name="巫术护腿" info="出售价格：100" star="1" lvInfo="★" attr="防御 +50n最大生命值 +200" 
+	buyPrice="500" sellPrice="100" def="50" maxHP="200" path="Icon/pant2" modelType="1"/>
+	
+	
+	
+	<item ID="11" Type="3" name="辉耀圣剑" info="出售价格：100" star="2" lvInfo="★★" attr="攻击力 +200n暴击率 +25%"  
+	buyPrice="500" sellPrice="100" atk="200" crit="25" path="Icon/weapon1" modelType="0"/>
+	<item ID="12" Type="3" name="辉耀圣剑" info="出售价格：100" star="3" lvInfo="★★★" attr="攻击力 +400n暴击率 +30%"  
+	buyPrice="500" sellPrice="100" atk="400" crit="30" path="Icon/weapon1" modelType="0"/>
+	
+	<item ID="21" Type="4" name="辉耀头盔" info="出售价格：100" star="2" lvInfo="★★" attr="防御 +100n最大生命值 +400" 
+	buyPrice="500" sellPrice="100" def="100" maxHP="400" path="Icon/helmet1" modelType="0"/>
+	<item ID="22" Type="4" name="辉耀头盔" info="出售价格：100" star="3" lvInfo="★★★" attr="防御 +200n最大生命值 +800" 
+	buyPrice="500" sellPrice="100" def="200" maxHP="800" path="Icon/helmet1" modelType="0"/>
+	
+	<item ID="31" Type="5" name="辉耀手套" info="出售价格：100" star="2" lvInfo="★★" attr="攻击力 +20n防御 +80" 
+	buyPrice="500" sellPrice="100" def="80" atk="20" path="Icon/glove1" modelType="0"/>
+	<item ID="32" Type="5" name="辉耀手套" info="出售价格：100" star="3" lvInfo="★★★" attr="攻击力 +40n防御 +160" 
+	buyPrice="500" sellPrice="100" def="160" atk="40" path="Icon/glove1" modelType="0"/>
+	
+	<item ID="41" Type="6" name="辉耀胸甲" info="出售价格：100" star="2" lvInfo="★★" attr="防御 +100n最大生命值 +600" 
+	buyPrice="500" sellPrice="100" def="100" maxHP="600" path="Icon/armor1" modelType="0"/>
+	<item ID="42" Type="6" name="辉耀胸甲" info="出售价格：100" star="3" lvInfo="★★★" attr="防御 +200n最大生命值 +1200" 
+	buyPrice="500" sellPrice="100" def="200" maxHP="1200" path="Icon/armor1" modelType="0"/>
+	
+	<item ID="51" Type="7" name="辉耀之靴" info="出售价格：100" star="2" lvInfo="★★" attr="防御 +80" 
+	buyPrice="500" sellPrice="100" def="80" path="Icon/shoes1" modelType="0"/>
+	<item ID="52" Type="7" name="辉耀之靴" info="出售价格：100" star="3" lvInfo="★★★" attr="防御 +160" 
+	buyPrice="500" sellPrice="100" def="160" path="Icon/shoes1" modelType="0"/>
+	
+	<item ID="61" Type="8" name="辉耀护腿" info="出售价格：100" star="2" lvInfo="★★" attr="防御 +100n最大生命值 +400" 
+	buyPrice="500" sellPrice="100" def="100" maxHP="400" path="Icon/pant1" modelType="0"/>
+	<item ID="62" Type="8" name="辉耀护腿" info="出售价格：100" star="3" lvInfo="★★★" attr="防御 +200n最大生命值 +800" 
+	buyPrice="500" sellPrice="100" def="200" maxHP="800" path="Icon/pant1" modelType="0"/>
+	
+	<item ID="16" Type="3" name="巫术法杖" info="出售价格：100" star="2" lvInfo="★★" attr="攻击力 +200n暴击率 +25%"  
+	buyPrice="500" sellPrice="100" atk="200" crit="25" path="Icon/weapon2" modelType="1"/>
+	<item ID="17" Type="3" name="巫术法杖" info="出售价格：100" star="3" lvInfo="★★★" attr="攻击力 +400n暴击率 +30%"  
+	buyPrice="500" sellPrice="100" atk="400" crit="30" path="Icon/weapon2" modelType="1"/>
+	
+	<item ID="26" Type="4" name="巫术护额" info="出售价格：100" star="2" lvInfo="★★" attr="防御 +100n最大生命值 +400" 
+	buyPrice="500" sellPrice="100" def="100" maxHP="400" path="Icon/helmet2" modelType="1"/>
+	<item ID="27" Type="4" name="巫术护额" info="出售价格：100" star="3" lvInfo="★★★" attr="防御 +200n最大生命值 +800" 
+	buyPrice="500" sellPrice="100" def="200" maxHP="800" path="Icon/helmet2" modelType="1"/>
+	
+	<item ID="36" Type="5" name="巫术护手" info="出售价格：100" star="2" lvInfo="★★" attr="攻击力 +20n防御 +80" 
+	buyPrice="500" sellPrice="100" def="80" atk="20" path="Icon/glove2" modelType="1"/>
+	<item ID="37" Type="5" name="巫术护手" info="出售价格：100" star="3" lvInfo="★★★" attr="攻击力 +40n防御 +160" 
+	buyPrice="500" sellPrice="100" def="160" atk="40" path="Icon/glove2" modelType="1"/>
+	
+	<item ID="46" Type="6" name="巫术长袍" info="出售价格：100" star="2" lvInfo="★★" attr="防御 +100n最大生命值 +600" 
+	buyPrice="500" sellPrice="100" def="100" maxHP="600" path="Icon/armor2" modelType="1"/>
+	<item ID="47" Type="6" name="巫术长袍" info="出售价格：100" star="3" lvInfo="★★★" attr="防御 +200n最大生命值 +1200" 
+	buyPrice="500" sellPrice="100" def="200" maxHP="1200" path="Icon/armor2" modelType="1"/>
+	
+	<item ID="56" Type="7" name="巫术之靴" info="出售价格：100" star="2" lvInfo="★★" attr="防御 +80" 
+	buyPrice="500" sellPrice="100" def="80" path="Icon/shoes2" modelType="1"/>
+	<item ID="57" Type="7" name="巫术之靴" info="出售价格：100" star="3" lvInfo="★★★" attr="防御 +160" 
+	buyPrice="500" sellPrice="100" def="160" path="Icon/shoes2" modelType="1"/>
+	
+	<item ID="66" Type="8" name="巫术护腿" info="出售价格：100" star="2" lvInfo="★★" attr="防御 +100n最大生命值 +400" 
+	buyPrice="500" sellPrice="100" def="100" maxHP="400" path="Icon/pant2" modelType="1"/>
+	<item ID="67" Type="8" name="巫术护腿" info="出售价格：100" star="3" lvInfo="★★★" attr="防御 +200n最大生命值 +800" 
+	buyPrice="500" sellPrice="100" def="200" maxHP="800" path="Icon/pant2" modelType="1"/>
+</game>

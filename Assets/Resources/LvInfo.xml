@@ -1,0 +1,33 @@
+<root>
+	<LV lv="1" atk="20" def="20" maxHP="200" maxMP="200" needExp="1000"/>
+	 <LV lv="2" atk="20" def="20" maxHP="200" maxMP="200" needExp="1100"/>
+	 <LV lv="3" atk="20" def="20" maxHP="200" maxMP="200" needExp="1200"/>
+	 <LV lv="4" atk="20" def="20" maxHP="200" maxMP="200" needExp="1300"/>
+	 <LV lv="5" atk="20" def="20" maxHP="200" maxMP="200" needExp="1400"/>
+	 <LV lv="6" atk="20" def="20" maxHP="200" maxMP="200" needExp="1500"/>
+	 <LV lv="7" atk="20" def="20" maxHP="200" maxMP="200" needExp="1600"/>
+	 <LV lv="8" atk="20" def="20" maxHP="200" maxMP="200" needExp="1700"/>
+	 <LV lv="9" atk="20" def="20" maxHP="200" maxMP="200" needExp="1800"/>
+	 <LV lv="10" atk="20" def="20" maxHP="200" maxMP="200" needExp="1900"/>
+	 <LV lv="11" atk="20" def="20" maxHP="200" maxMP="200" needExp="2000"/>
+	 <LV lv="12" atk="20" def="20" maxHP="200" maxMP="200" needExp="2000"/>
+	 <LV lv="13" atk="20" def="20" maxHP="200" maxMP="200" needExp="2000"/>
+	 <LV lv="14" atk="20" def="20" maxHP="200" maxMP="200" needExp="2000"/>
+	 <LV lv="15" atk="20" def="20" maxHP="200" maxMP="200" needExp="2000"/>
+	 <LV lv="16" atk="20" def="20" maxHP="200" maxMP="200" needExp="2000"/>
+	 <LV lv="17" atk="20" def="20" maxHP="200" maxMP="200" needExp="2000"/>
+	 <LV lv="18" atk="20" def="20" maxHP="200" maxMP="200" needExp="2000"/>
+	 <LV lv="19" atk="20" def="20" maxHP="200" maxMP="200" needExp="2000"/>
+	 <LV lv="20" atk="20" def="20" maxHP="200" maxMP="200" needExp="2000"/>
+	 <LV lv="21" atk="20" def="20" maxHP="200" maxMP="200" needExp="2000"/>
+	 <LV lv="22" atk="20" def="20" maxHP="200" maxMP="200" needExp="2000"/>
+	 <LV lv="23" atk="20" def="20" maxHP="200" maxMP="200" needExp="2000"/>
+	 <LV lv="24" atk="20" def="20" maxHP="200" maxMP="200" needExp="2000"/>
+	 <LV lv="25" atk="20" def="20" maxHP="200" maxMP="200" needExp="2000"/>
+	 <LV lv="26" atk="20" def="20" maxHP="200" maxMP="200" needExp="2000"/>
+	 <LV lv="27" atk="20" def="20" maxHP="200" maxMP="200" needExp="2000"/>
+	 <LV lv="28" atk="20" def="20" maxHP="200" maxMP="200" needExp="2000"/>
+	 <LV lv="29" atk="20" def="20" maxHP="200" maxMP="200" needExp="2000"/>
+	 <LV lv="30" atk="20" def="20" maxHP="200" maxMP="200" needExp="2000"/>
+	 
+</root>

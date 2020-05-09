@@ -1,0 +1,108 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - loweffect
+  - Warning
+  - Ground
+  - UI_TaskPanel
+  - Skill
+  - trail
+  - Monster
+  - breath
+  - UI_Shop
+  - ground
+  - Attr
+  - Name
+  - Atk
+  - Career
+  - Exp
+  - MPInfo
+  - Crit
+  - Def
+  - HPInfo
+  - explosion
+  - SplitNum
+  - SplitPanel
+  - PlayerModel
+  - SkillUnit
+  - ID
+  - Password
+  - LookPos_boy
+  - Tip
+  - LookPos_girl
+  - ToggleControl
+  - Bag_Panel
+  - Bag
+  - BagUnit
+  - Money
+  - RotateToLeft
+  - RotateToRight
+  - Panel
+  - Equipment
+  - UI_TaskComplete
+  - LookPos
+  - UI_TaskSystem
+  - missile
+  - BGM
+  - Pos3
+  - MP
+  - AllMonster
+  - EnemyHP
+  - Pos4
+  - GM
+  - BossBorn
+  - Pos1
+  - Pos2
+  - ShortCut
+  - HP
+  - NPC_woman
+  - Canvas
+  - NumParent
+  - LV
+  - ModelGirl
+  - NPC
+  - StarUp
+  - StarUpPanel
+  - Summon
+  - SummonHP
+  - Quit
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

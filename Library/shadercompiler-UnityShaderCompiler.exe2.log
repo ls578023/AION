@@ -1,0 +1,32 @@
+Base path: E:/U3D2019/2019.1.4f1/Editor/Data
+Cmd: initializeCompiler
+Cmd: compileComputeKernel
+  api=4 insize=3273 outsize=2253 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=2057 outsize=349 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=1174 outsize=781 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=10879 outsize=10593 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=4855 outsize=5437 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=18297 outsize=8781 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=18297 outsize=10469 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=1804 outsize=553 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=3273 outsize=2253 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=1526 outsize=349 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=10879 outsize=10593 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=4855 outsize=9169 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=18297 outsize=8681 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=18297 outsize=10377 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=1804 outsize=553 ok=1

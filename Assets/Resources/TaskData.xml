@@ -1,0 +1,7 @@
+﻿<root>
+	<Task id="1" name="龙族先锋团" type="1" info="龙皇现世，即将对天族和魔族的领地发动攻击。n尊敬的巡天使者，能否帮我们处理掉徘徊在附近的龙族先锋团？"
+	task="击杀5头冰海骨龙和5头地狱炎龙。" money="2000" exp="1000" startNpc="NPC_woman" endNpc="NPC_woman" complete="使者大人，请问您已经帮我们击败了龙族先锋团了吗？" sure="使者大人您帮了我们大忙了，太感谢了。n对了，刚才接到传令，盟主正在寻找您，好像有很重要的事。" error="请不要戏弄下属"/>
+	
+	<Task id="2"  name="寻找巡天盟主" type="2" info="刚才接到传令，盟主正在寻找您，好像有很重要的事。"
+	task="使用传送阵前往北方的巡天殿"  money="1000" exp="1000"  startNpc="NPC_woman"  endNpc="NPC_man" complete="盟主找您这么急，必然是要紧事，您还是赶紧动身吧。" sure="你终于来了，路上辛苦了。" error="请不要戏弄下属"/>
+</root>

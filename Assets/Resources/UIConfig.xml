@@ -1,0 +1,15 @@
+<root>
+	<UIPanel type="1" path="Prefabs/UI/UI_Bag"/>
+	<UIPanel type="2" path="Prefabs/UI/UI_Equ"/>
+	<UIPanel type="3" path="Prefabs/UI/UI_Attr"/>
+	<UIPanel type="4" path="Prefabs/UI/UI_Skill"/>
+	<UIPanel type="5" path="Prefabs/UI/UI_Task"/>
+	<UIPanel type="6" path="Prefabs/UI/UI_TaskSystem"/>
+	<UIPanel type="7" path="Prefabs/UI/UI_TaskComplete"/>
+	<UIPanel type="8" path="Prefabs/UI/UI_Shop"/>
+	<UIPanel type="9" path="Prefabs/UI/UI_TipPanel"/>
+	<UIPanel type="10" path="Prefabs/UI/UI_QuitGame"/>
+	<UIPanel type="11" path="Prefabs/UI/UI_RewardPanel"/>
+	<UIPanel type="12" path="Prefabs/UI/UI_StarUp"/>
+	<UIPanel type="13" path="Prefabs/UI/UI_Info"/>
+</root>

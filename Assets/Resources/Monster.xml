@@ -1,0 +1,5 @@
+<Monster>
+  <Monster type="1" name="冰海骨龙" lv ="10" maxHP="3000"  atk="700" def="350" exp="200" money="300"/>
+  <Monster type="2" name="地狱炎龙" lv ="10" maxHP="3500"  atk="720" def="400" exp="300" money="400"/>
+  <Monster type="3" name="死亡之翼" lv ="15" maxHP="5000"  atk="800" def="450" exp="2000" money="500"/>
+</Monster>
